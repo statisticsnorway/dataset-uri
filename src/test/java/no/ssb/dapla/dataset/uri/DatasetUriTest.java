@@ -1,4 +1,4 @@
-package no.ssb.dapla.dataset.utils;
+package no.ssb.dapla.dataset.uri;
 
 import org.junit.jupiter.api.Test;
 
