@@ -88,6 +88,10 @@ public class DatasetUri {
         return uri;
     }
 
+    public String toVersionedDatasetId() {
+        return path + "/" + version;
+    }
+
     @Override
     public String toString() {
         return uri.toString();
